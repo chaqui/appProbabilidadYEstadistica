@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">probabilidadyestadistica</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Leer">Leer</string>
+    <string name="Lineal">Distribucion Lineal</string>
+    <string name="Binomial">Distribución Binomial</string>
+    <string name="Multinomial">Distribución Multinomial</string>
+    <string name="Hipergeometrica ">Distribución Hipergeometrica</string>
+    <string name="binomialNegativa">Distribución Binomial Negativa</string>
+    <string name="Geometrica">Distribución Geometrica</string>
+    <string name="Poinson">Distribución Poinson</string>
+    <string name="Texto2">Seleccione de las siguientes distribuciones de probabilidad:</string>
+
+</resources>
